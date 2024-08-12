@@ -57,7 +57,8 @@ body {
     gap: 130px;
 
 }
-.failure-section{
+
+.failure-section {
     padding-top: 240px;
 }
 
@@ -75,4 +76,29 @@ body {
     font-weight: 400;
     text-align: left;
     margin-bottom: 24px;
+}
+
+/* plan section */
+
+.plan {
+    margin: 0px 280px 130px 225px;
+}
+
+.plan-title {
+    margin-bottom: 50px;
+    text-align: center;
+    color: rgb(21, 20, 20);
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.plan-group {
+    display: flex;
+    gap: 85px;
+    justify-content: space-around;
+}
+
+.name{
+    margin: 20px 0px 14px 0px;
+    text-align: center;
 }
