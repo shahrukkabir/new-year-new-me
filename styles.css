@@ -1,3 +1,50 @@
 body {
     font-family: "Work Sans", sans-serif;
 }
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* header section styles */
+
+.header {
+    background-image: url("/images/banner/banner3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    margin-bottom: 50px;
+
+}
+.header-content {
+    padding: 216px 220px 166px 850px;
+    text-align: right;
+}
+
+.head-title {
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.head-description {
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+
+.btn {
+    padding: 15px;
+    color: rgb(0, 95, 172);
+    font-size: 15px;
+    font-weight: 600;
+    border: 0px;
+    border-radius: 5px;
+}
