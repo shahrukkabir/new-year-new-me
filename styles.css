@@ -81,7 +81,7 @@ body {
 /* plan section */
 
 .plan {
-    margin: 0px 280px 130px 225px;
+    margin: 0px 190px 130px 230px;
 }
 
 .plan-title {
@@ -95,10 +95,99 @@ body {
 .plan-group {
     display: flex;
     gap: 85px;
-    justify-content: space-around;
+    justify-content: space-between;
+
 }
 
-.name{
+.name {
     margin: 20px 0px 14px 0px;
     text-align: center;
+}
+
+/* mind section */
+
+.mind {
+    background-image: url("./images/gradient1.png"), url("./images/watch.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0px 300px 130px 230px;
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+
+}
+
+.mind-container {
+    padding: 59px 600px 59px 64px;
+}
+
+.mind-title {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+
+/* footer style */
+
+footer {
+    background-color: black;
+    height: 570px;
+    display: flex;
+    gap: 330px;
+}
+
+.footer-content {
+    padding: 130px 0px 130px 230px;
+}
+
+.footer-form {
+    padding: 130px 230px 243px 0px;
+}
+
+.footer-title {
+    color: rgb(248, 248, 248);
+    font-size: 45px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.footer-description {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+
+footer ul {
+    display: flex;
+    gap: 17px;
+}
+
+.footer-form-title {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.input-mail{
+    padding: 20px 100px 20px 20px;
+    background-color: black;
+    margin-bottom: 16px;
+    border-radius: 8px;
+}
+
+.btn2 {
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(0, 95, 172);
+    
 }
