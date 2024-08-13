@@ -1,6 +1,6 @@
 # new-year-new-me
 
-This repository contains a simple landing page design implemented using HTML and CSS only. The design was originally created in Figma and has been converted into a web page. [preview](#)
+This repository contains a simple landing page design implemented using HTML and CSS only. The design was originally created in Figma and has been converted into a web page. [preview](https://shahrukkabir.github.io/new-year-new-me/)
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ To view the landing page, simply open the `index.html` file in your web browser.
 
 ## Preview
 
-![Preview Image]() <!-- Replace this with the actual URL to your image -->
+[Click here to view the live website](https://shahrukkabir.github.io/new-year-new-me/)
 
 ## Features
 
