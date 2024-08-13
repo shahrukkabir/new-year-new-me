@@ -17,12 +17,9 @@ To view the landing page, simply open the `index.html` file in your web browser.
 
 ## Credits
 
-The design for this landing page was created in Figma which collected from [Programming Hero](https://programming-hero.com/). The implementation in HTML and CSS was done by [Muzakkir Hossain Minhaz](https://github.com/minhaz).
+The design for this landing page was created in Figma which collected from [Programming Hero](https://programming-hero.com/). The implementation in HTML and CSS was done by [Shahruk Ibney Kabir](https://github.com/shahrukkabir).
 
 ## Contribution Guidelines
 
 This is a personal project and contributions are not expected. However, if you would like to suggest improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
