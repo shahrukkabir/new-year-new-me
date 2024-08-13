@@ -8,7 +8,10 @@ To view the landing page, simply open the `index.html` file in your web browser.
 
 ## Preview
 
+![Preview Image](https://github.com/shahrukkabir/new-year-new-me/blob/main/Frame%203.png)
+
 [Click here to view the live website](https://shahrukkabir.github.io/new-year-new-me/)
+
 
 ## Features
 
